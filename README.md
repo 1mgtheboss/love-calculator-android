@@ -1,4 +1,4 @@
 love-calculator-android
 =======================
 
-Love Calculator
+© 2014 Manojit Ghosh
