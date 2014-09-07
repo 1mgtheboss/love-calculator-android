@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Love Calculator</string>
+    <string name="action_settings">Settings</string>
+    <color name="love">#ff0080</color>
+    <color name="white">#ffffff</color>
+    <string name="hint1">Your name</string>
+    <string name="hint2">Your lover\'s name</string>
+    <string name="button_text">Calculate Love</string>
+    <string name="love_score">Your love score will appear here.</string>
+
+</resources>
